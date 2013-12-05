@@ -20,6 +20,6 @@ public class FizzBuzz {                      // Everything in Java is a class
       else System.out.print(i);                        // else just print it
       System.out.print(" "); 
     }
-    System.out.println();
+    System.out.println("changes made");
   }
 }
